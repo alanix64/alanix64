@@ -1,4 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alan Nava=================================================================================================================================I.T. Engineer.--------------Interested on mastering Python, related to logistics, webdeveloping and pygame. Also in Cybersecurity.* 🌍  I'm based in Queretaro, Mexico* ✉️  You can contact me at [alanix64@gmail.com](mailto:alanix64@gmail.com)* 🧠  I'm learning Python and Java* 🤝  I'm open to collaborating on Whenever you need me
+buymeacoffeeBuy Me a Coffee:
+kofiBuy Me a Coffee:
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alan Nava
+=================================================================================================================================
+
+I.T. Engineer.
+--------------
+
+Interested on mastering Python, related to logistics, webdeveloping and pygame. Also in Cybersecurity.
+
+*   🌍  I'm based in Queretaro, Mexico
+*   ✉️  You can contact me at [alanix64@gmail.com](mailto:alanix64@gmail.com)
+*   🧠  I'm learning Python and Java
+*   🤝  I'm open to collaborating on Whenever you need me
 
 ### Skills
 
